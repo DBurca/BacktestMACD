@@ -1,5 +1,5 @@
 # Backtest MACD Indicator
-A Python script to backtest the Moving Average Convergence Divergence (MACD) indicator against the buy-and-hold S&P 500. The backtesting strategy involves long/short position flipping based on the crossover signals. I making this project to learn more about algorithmic backtesting with real market data.
+A Python script to backtest the Moving Average Convergence Divergence (MACD) indicator against the buy-and-hold S&P 500. The backtesting strategy involves long/short position flipping based on the crossover signals. I made this project to learn more about algorithmic backtesting with real market data. Claude.ai was used in the making of this repository
 
 ## Features
 
