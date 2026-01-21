@@ -3,24 +3,24 @@ A Python script to backtest the Moving Average Convergence Divergence (MACD) ind
 
 ## Features
 
-### 📊 Strategy Implementation
+### Strategy Implementation
 - **MACD Indicator**: 12/26/9 EMA configuration (Fast EMA, Slow EMA, Signal Line)
 - **Long/Short Strategy**: Automatically flips between long and short positions on MACD crossovers
 - **Signal Generation**: Buy when MACD crosses above signal line, sell short when MACD crosses below
 - **Trade Log**: All trades taken are logged in the console
 
-### 📈 Performance Analysis
+### Performance Analysis
 - **Alpha Calculation**: Measures returns over S&P 500 buy-and-hold
 - **Risk Metrics**: Volatility, Sharpe ratio, and total return calculations
 - **Benchmark Comparison**: Side-by-side performance visualization against market index
 - **Trade Logging**: Detailed console output of all buy/sell/short/cover transactions
 
-### 🕐 Multiple Timeframes
+### Multiple Timeframes
 - **Intraday**: 5-minute, 30-minute, 1-hour intervals
 - **Daily/Weekly/Monthly**: Standard time periods (Day, Week, Month)
 - **Custom Date Ranges**: User-defined start and end dates
 
-### 📊 Comprehensive Visualization
+### Comprehensive Visualization
 Four-panel visual chart:
 1. **Price Chart**: Stock price with buy/sell signal markers
 2. **MACD Indicator**: MACD line, signal line, and histogram
@@ -112,7 +112,7 @@ Running backtest...
 
 ## Risk Considerations
 
-⚠️ **Important Disclaimers**:
+**Important Disclaimers**:
 - This tool is for educational and research purposes only
 - Past performance does not guarantee future results
 - Short selling involves unlimited loss potential
